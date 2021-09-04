@@ -1,0 +1,16 @@
+.flag{
+    width: 200px;
+}
+.box{
+    border: 3px solid lightgray;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px;
+}
+.number{
+    text-align: center;
+}
+.error{
+    margin-top: 50px;
+    text-align: center;
+}
